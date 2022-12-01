@@ -5,7 +5,6 @@ I'm Fernando Aspiazu, enthusiastic Software Engineer with a passion for function
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aspiazu/)
 - 🌱 I'm eager to learn more about Data Engineering and Data Architectures ⚙️
 - 🛠️ I have also a big curiosity in modern architectures running on the Cloud ☁️
-- 💞️ I'm available to collaborate on any project JVM based 😉
 
 <!---
 fernaspiazu/fernaspiazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
